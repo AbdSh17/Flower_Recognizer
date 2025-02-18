@@ -2,6 +2,10 @@
 gunicorn
 tensorflow
 tensorflow_hub
+h5py
 numpy
 pandas
 pillow
+json5
+waitress
+tf_keras
