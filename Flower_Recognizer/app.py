@@ -105,6 +105,9 @@ def upload_file():
     new_line = '\n'
     response = jsonify(f"Species: {classes[0]} - Probability: {(probs[0] * 100):.2f}%")
     response.headers.add("Access-Control-Allow-Origin", "*")  # Allow all origins
+
+    os.remove(file_path)
+
     return response
 
 if __name__ == "__main__":
