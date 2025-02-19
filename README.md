@@ -41,8 +41,9 @@ The neural network was trained for **12 epochs** using:
 
 After training, the model achieved **90% accuracy** on the test set and was saved in **H5 format** for deployment.
 
-#### Model Architecture:
+### Model Architecture:
 ![Neural Network Structure](helping_imgs/img.png)
+
 </br> you can see the full module through the (`Report-Flower_Recognizer_Module.pdf`)
 ---
 
