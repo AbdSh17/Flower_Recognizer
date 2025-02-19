@@ -43,7 +43,7 @@ After training, the model achieved **90% accuracy** on the test set and was save
 
 #### Model Architecture:
 ![Neural Network Structure](helping_imgs/img.png)
-you can see the full module through the (`Report-Flower_Recognizer_Module.pdf`)
+</br> you can see the full module through the (`Report-Flower_Recognizer_Module.pdf`)
 ---
 
 ### 2️- Frontend
