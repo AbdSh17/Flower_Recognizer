@@ -3,9 +3,9 @@
 A web application powered by a Neural Network (NN) using TensorFlow that can identify different flower types based on an image uploaded by the user.
 
 ## Table of Contents
-[How to Access](#How-to-Access)
-[More About The Site](#More-About-The-Site)
-[Project Dependencies](#Project-Dependencies)
+- [How to Access](#How-to-Access)
+- [More About The Site](#More-About-The-Site)
+- [Project Dependencies](#Project-Dependencies)
 
 
 ## How to Access
@@ -41,9 +41,10 @@ The neural network was trained for **12 epochs** using:
 
 After training, the model achieved **90% accuracy** on the test set and was saved in **H5 format** for deployment.
 
-#### Model Architecture:
+### Model Architecture:
 ![Neural Network Structure](helping_imgs/img.png)
-you can see the full module through the (`Report-Flower_Recognizer_Module.pdf`)
+
+</br> you can see the full module through the (`Report-Flower_Recognizer_Module.pdf`)
 ---
 
 ### 2️- Frontend
