@@ -3,9 +3,9 @@
 A web application powered by a Neural Network (NN) using TensorFlow that can identify different flower types based on an image uploaded by the user.
 
 ## Table of Contents
-[How to Access](#How-to-Access)
-[More About The Site](#More-About-The-Site)
-[Project Dependencies](#Project-Dependencies)
+- [How to Access](#How-to-Access)
+- [More About The Site](#More-About-The-Site)
+- [Project Dependencies](#Project-Dependencies)
 
 
 ## How to Access
