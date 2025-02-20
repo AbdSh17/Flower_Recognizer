@@ -67,6 +67,11 @@ The application is deployed on **Render**, ensuring seamless hosting and accessi
 
 ---
 
+## Sample Images
+![Flower1](#helping_imgs/img2.png)
+---
+![Flower2](#helping_imgs/img3.png)
+
 ## Project Dependencies
 
 The following Python packages are required for this project:
