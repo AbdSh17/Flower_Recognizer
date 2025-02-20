@@ -5,6 +5,7 @@ A web application powered by a Neural Network (NN) using TensorFlow that can ide
 ## Table of Contents
 - [How to Access](#How-to-Access)
 - [More About The Site](#More-About-The-Site)
+- [Sample Images](#Sample-Images)
 - [Project Dependencies](#Project-Dependencies)
 
 
@@ -68,9 +69,11 @@ The application is deployed on **Render**, ensuring seamless hosting and accessi
 ---
 
 ## Sample Images
-![Flower1](#helping_imgs/img2.png)
----
-![Flower2](#helping_imgs/img3.png)
+samples tooked from the online server
+### sample1
+![Flower1](helping_imgs/img2.png)
+### sample2
+![Flower2](helping_imgs/img3.png)
 
 ## Project Dependencies
 
